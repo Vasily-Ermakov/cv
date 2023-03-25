@@ -1,0 +1,7 @@
+# IntelliJ IDEA configuration
+/.idea
+*.iml
+
+# Output directory
+**/out
+**/auxil
